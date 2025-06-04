@@ -1,0 +1,13 @@
+
+
+{
+  "token": "Token CfDJ8GgaAYj_-JtKshKuu66pSBhtPK4fRqTyIwwNvb3OhU3mBc7eMxwDC4FBC6GFADYXZPY78Ma0OGDkjbpgs1e7hBT5uyEanKdTjTGQ-uZL16Hk6hUy81OFiEbmvwzfy8TgxhnWIt2Pe9mwa9abiqi0paBq6k1550TgS8W64DfEEgG0AKOggy0XCrzknag52E_qtcSgCpq241iFq7MhR5tu7sOGf6rWB3iPJC1XpqMDIGa7a7PTwFuYBKaHkSAr_mYxmYqeD7THSYdBipCBhxOcST41
+",
+  "spinUrl": "https://mvmx.playstudios.com/api/games/mvm/spookymoon/spin",
+  "payload": {
+    "FullWager": 5000000,
+    "BetIndex": 9,
+    "FSRT": [],
+    "Variant": ""
+  }
+}
